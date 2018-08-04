@@ -1,0 +1,8 @@
+name = ckeditor_plugin module
+description = ckeditor_plugin module
+package = ckeditor
+core = 7.x
+dependencies[] = ckeditor
+
+files[] = ckeditor_plugin.module
+files[] = ckeditor_plugin_ckeditorPlugin.class.php
