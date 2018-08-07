@@ -2,6 +2,8 @@
 
 Ckeditor_plugin
 
+Drupal 7 module.
+
 This Drupal module can be used to add text manipulation options to the ckeditor module.
 In this module a class is created with the detault functions.
 The main functions are:
@@ -14,3 +16,4 @@ The main functions are:
  
 See module ckeditor_plugin_createNode for more info how to create/ use the plugin for text manipulation
 options in de body text.
+
